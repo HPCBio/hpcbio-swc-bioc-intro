@@ -1,5 +1,5 @@
 ---
-title: Setup
+title: Summary and Setup
 ---
 
 - Please make sure you have a spreadsheet editor at hand, such as
@@ -162,7 +162,13 @@ BiocManager::install(c("tidyverse", "SummarizedExperiment", "hexbin",
                        "patchwork", "gridExtra", "lubridate"))
 ```
 
+- When it asks the following question, just type 'n' for no and then hit enter. This will help you avoid package version
+conflicts.
 
+```r
+Update all/some/none? [a/s/n]: 
+n
+```
 
 ## Additional HPCBio Resources
 
