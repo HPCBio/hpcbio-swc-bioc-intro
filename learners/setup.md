@@ -162,7 +162,7 @@ BiocManager::install(c("tidyverse", "SummarizedExperiment", "hexbin",
                        "patchwork", "gridExtra", "lubridate"))
 ```
 
-:::::::::::::::::::::::::
+
 
 ## Additional HPCBio Resources
 
