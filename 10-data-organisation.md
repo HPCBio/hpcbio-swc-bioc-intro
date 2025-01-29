@@ -1,6 +1,6 @@
 ---
 source: Rmd
-title: Data organisation with spreadsheets
+title: Data organisation with spreadsheets (optional)
 teaching: 30
 exercises: 30
 ---
@@ -25,6 +25,12 @@ exercises: 30
 
 > This episode is based on the Data Carpentries's *Data Analysis and
 > Visualisation in R for Ecologists* lesson.
+
+
+### HPCBio Notes
+
+If you’re signed up for an HPCBio workshop, **this entire episode is optional**. There is no recording available for this episode, so please follow along with the text-based lesson below.
+
 
 ## Spreadsheet programs
 

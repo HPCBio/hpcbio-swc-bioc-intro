@@ -161,3 +161,12 @@ install.packages(c("BiocManager", "remotes"))
 BiocManager::install(c("tidyverse", "SummarizedExperiment", "hexbin",
                        "patchwork", "gridExtra", "lubridate"))
 ```
+
+
+
+## Additional HPCBio Resources
+
+If you are signed up for an HPCBio workshop, you will have additional resources that you can utilize that will be noted throughout the lessons. These resources are listed below. Make sure to confirm that you have access to both of them. If you're not signed up for an HPCBio workshop, then you will not have permission to access these. See our website for more workshop information [here](https://hpcbio.illinois.edu/hpcbio-workshops).
+
+1. **Slack Workshop Group:** You should have received an email with an invitation to join our *HPCBio Workshops* Slack page. Here you can ask HPCBio staff questions related to this material under the channel named **# intro-linux-swc**.
+2. **Video Channel:** You should have also received an email containing a link to our video playlist. This includes recordings of HPCBio staff teaching this material if you prefer to listen and follow along with these materials rather than read through the lessons on your own.

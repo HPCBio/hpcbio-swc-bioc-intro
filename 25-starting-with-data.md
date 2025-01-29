@@ -785,7 +785,7 @@ head(m)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Formatting Dates
+## Formatting Dates (optional)
 
 One of the most common issues that new (and experienced!) R users have
 is converting date and time information into a variable that is

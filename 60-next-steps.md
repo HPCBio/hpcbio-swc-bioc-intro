@@ -1,6 +1,6 @@
 ---
 source: Rmd
-title: Next steps
+title: Next steps (optional)
 teaching: 45
 exercises: 45
 ---
@@ -22,6 +22,11 @@ exercises: 45
 - What is Bioconductor?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## HPCBio Notes
+
+If you're signed up for an HPCBio workshop, **this episode 7 is optional** but recommended reading if you're signed up for Traditional Bulk RNA-Seq Analysis.
+There is no recording available for this episode, so please follow along with the text-based lesson below.
 
 ## Next steps
 
