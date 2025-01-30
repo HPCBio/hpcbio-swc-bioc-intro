@@ -29,6 +29,12 @@ exercises: 30
 > This episode is based on the Data Carpentries's *Data Analysis and
 > Visualisation in R for Ecologists* lesson.
 
+## HPCBio Notes
+
+If you’re signed up for an HPCBio workshop, **this episode is required** reading.
+You may watch a recording of this episode by viewing the video named "Episode 4: Starting with data" on our video playlist. 
+Please see your email for a URL to the playlist.
+
 ## Presentation of the gene expression data
 
 We are going to use part of the data published by [Blackmore *et al.*
