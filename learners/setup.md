@@ -2,10 +2,11 @@
 title: Summary and Setup
 ---
 
-- Please make sure you have a spreadsheet editor at hand, such as
+- If you're planning on learning the optional first episode, please make sure you have a 
+  spreadsheet editor at hand, such as
   LibreOffice, Microsoft Excel or Google Sheets.
 
-- Install R, RStudio and packages (see below).
+- Install R, RStudio and necessary packages (see below).
 
 ### R and RStudio
 
