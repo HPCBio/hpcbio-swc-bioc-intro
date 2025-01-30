@@ -28,7 +28,8 @@ exercises: 30
 > Visualisation in R for Ecologists* lesson.
 
 
-### HPCBio Notes
+
+## HPCBio Notes
 
 If you’re signed up for an HPCBio workshop, **this entire episode is optional**. There is no recording available for this episode, so please follow along with the text-based lesson below.
 

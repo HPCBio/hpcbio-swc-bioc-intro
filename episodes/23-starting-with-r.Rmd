@@ -31,6 +31,13 @@ exercises: 60
 > This episode is based on the Data Carpentries's *Data Analysis and
 > Visualisation in R for Ecologists* lesson.
 
+## HPCBio Notes
+
+If you’re signed up for an HPCBio workshop, **this episode is required** reading.
+You may watch a recording of this episode by viewing the video named "Episode 3: Introduction to R" on our video playlist.
+Please see your email for a URL to the playlist.
+
+
 ## Creating objects in R
 
 You can get output from R simply by typing math in the console:
