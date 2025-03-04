@@ -26,7 +26,7 @@ exercises: 45
 
 ## HPCBio Notes
 
-If you're signed up for an HPCBio workshop, **this episode 7 is optional** but recommended reading if you're signed up for Traditional Bulk RNA-Seq Analysis.
+If you're signed up for an HPCBio workshop, **this episode 7 is optional** but recommended reading if you're signed up for any RNA-Seq Analysis workshop.
 There is no recording available for this episode, so please follow along with the text-based lesson below.
 
 ## Next steps
