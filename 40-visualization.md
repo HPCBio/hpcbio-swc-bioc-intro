@@ -28,6 +28,12 @@ exercises: 60
 > This episode is based on the Data Carpentries's *Data Analysis and
 > Visualisation in R for Ecologists* lesson.
 
+## HPCBio Notes
+
+If you’re signed up for an HPCBio workshop, **this episode is required** reading. 
+You may watch a recording of this episode by viewing the video named "Episode 6: Data visualization" on our video playlist. 
+Please see your email for a URL to the playlist.
+
 ## Data Visualization
 
 We start by loading the required packages. **`ggplot2`** is included in
@@ -862,36 +868,6 @@ ggplot(data = mean_exp_by_chromosome, mapping = aes(x = time,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-The `facet_wrap` geometry extracts plots into an arbitrary number of
-dimensions to allow them to cleanly fit on one page. On the other hand,
-the `facet_grid` geometry allows you to explicitly specify how you want
-your plots to be arranged via formula notation (`rows ~ columns`; a `.`
-can be used as a placeholder that indicates only one row or column).
-
-Let's modify the previous plot to compare how the mean gene expression
-of males and females has changed through time:
-
-
-``` r
-# One column, facet by rows
-ggplot(data = mean_exp_by_time_sex,
-       mapping = aes(x = time, y = mean_exp, color = gene)) +
-  geom_line() +
-  facet_grid(sex ~ .)
-```
-
-<img src="fig/40-visualization-rendered-mean-exp-time-facet-sex-rows-1.png" style="display: block; margin: auto;" />
-
-
-``` r
-# One row, facet by column
-ggplot(data = mean_exp_by_time_sex,
-       mapping = aes(x = time, y = mean_exp, color = gene)) +
-  geom_line() +
-  facet_grid(. ~ sex)
-```
-
-<img src="fig/40-visualization-rendered-mean-exp-time-facet-sex-columns-1.png" style="display: block; margin: auto;" />
 
 ## `ggplot2` themes
 
@@ -1168,7 +1144,7 @@ install.packages("patchwork")
 
 
 ``` r
-library("patchwork")
+library(patchwork)
 count_gene_chromosome + exp_boxplot_sex
 ```
 
@@ -1230,7 +1206,7 @@ install.packages("gridExtra")
 
 
 ``` r
-library("gridExtra")
+library(gridExtra)
 grid.arrange(count_gene_chromosome, exp_boxplot_sex, ncol = 2)
 ```
 

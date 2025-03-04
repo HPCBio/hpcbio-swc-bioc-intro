@@ -29,6 +29,12 @@ exercises: 75
 > This episode is based on the Data Carpentries's *Data Analysis and
 > Visualisation in R for Ecologists* lesson.
 
+## HPCBio Notes
+
+If you’re signed up for an HPCBio workshop, **this episode is required** reading. 
+You may watch a recording of this episode by viewing the video named "Episode 5: Manipulating and analyzing data with dplyr" on our video playlist. 
+Please see your email for a URL to the playlist.
+
 ## Data manipulation using **`dplyr`** and **`tidyr`**
 
 Bracket subsetting is handy, but it can be cumbersome and difficult to
